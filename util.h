@@ -5,4 +5,6 @@
 
 int c_next(int *c);
 
+int c_blank(int *c);
+
 #endif
